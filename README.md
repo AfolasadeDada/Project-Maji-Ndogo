@@ -1,7 +1,7 @@
-# Project-Maji-Ndogo
+# Water Scarcity and Criminal Analysis 
 
 ## Description:
-Project Maji Ndogo is a comprehensive data-driven initiative aimed at addressing the water crisis in the fictional town of Maji Ndogo. Through data analysis using SQL and visualization tools like Power BI, this project seeks to uncover insights into water sources, quality, pollution issues, and the impact on the community. The project also delves into the gender composition of queues at water taps and considers crime-related data to provide a holistic understanding of the water crisis in Maji Ndogo.
+This project is a comprehensive data-driven initiative aimed at addressing the water crisis in the fictional town of Maji Ndogo. Through data analysis using SQL and visualization tools like Power BI, this project seeks to uncover insights into water sources, quality, pollution issues, and the impact on the community. The project also delves into the gender composition of queues at water taps and considers crime-related data to provide a holistic understanding of the water crisis in Maji Ndogo.
 
 ### Table of Contents:
 1. Introduction
@@ -17,7 +17,7 @@ Project Maji Ndogo is a comprehensive data-driven initiative aimed at addressing
 6. Reference
 
 ## Introduction:
-The town of Maji Ndogo faces a severe water crisis, with limited access to clean and reliable water sources. This project aims to analyze data collected on water sources, water collection, and crime to gain insights into the challenges faced by the community. By leveraging SQL for data analysis and Power BI for visualization, the project aims to derive actionable insights to address the water crisis effectively.
+The town  faces a severe water crisis, with limited access to clean and reliable water sources. This project aims to analyze data collected on water sources, water collection, and crime to gain insights into the challenges faced by the community. By leveraging SQL for data analysis and Power BI for visualization, the project aims to derive actionable insights to address the water crisis effectively.
 
 ## Data Preparation:
 - Data sourced from multiple sources including water quality reports, pollution tests, and visit logs to water sources.
@@ -82,7 +82,7 @@ Current progress status of the project, Total expenditure to date, Breakdown of 
 
 
 ## Conclusion:
-Project Maji Ndogo provides valuable insights into the water crisis in Maji Ndogo through data analysis and visualization. By understanding the challenges faced by the community, decision-makers can implement targeted interventions to improve access to clean water and mitigate pollution issues.
+This project provides valuable insights into the water crisis in the twon through data analysis and visualization. By understanding the challenges faced by the community, decision-makers can implement targeted interventions to improve access to clean water and mitigate pollution issues.
 
 ## Reference
 - [ExploreAI](https://www.explore.ai/)
