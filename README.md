@@ -1,7 +1,7 @@
 # Water Scarcity and Criminal Analysis 
 
 ## Description:
-This project is a comprehensive data-driven initiative aimed at addressing the water crisis in the fictional town of Maji Ndogo. Through data analysis using SQL and visualization tools like Power BI, this project seeks to uncover insights into water sources, quality, pollution issues, and the impact on the community. The project also delves into the gender composition of queues at water taps and considers crime-related data to provide a holistic understanding of the water crisis in Maji Ndogo.
+This project is a comprehensive data-driven initiative aimed at addressing the water crisis in the fictional town of Maji Ndogo. Through data analysis using SQL and visualization tools like Power BI, this project seeks to uncover insights into water sources, quality, pollution issues, and the impact on the community. The project also delves into the gender composition of queues at water taps and considers crime-related data to provide a holistic understanding of the water crisis .
 
 ### Table of Contents:
 1. Introduction
